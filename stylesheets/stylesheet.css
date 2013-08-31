@@ -26,7 +26,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font: inherit;
-  vertical-align: baseline;
+ 
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -147,7 +147,7 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
+  padding: 0px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
 
@@ -237,7 +237,7 @@ hr {
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
-  text-align: left;
+  text-align: top;
  }
 
 th {
@@ -272,7 +272,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 740px;
   padding: 20px 10px;
   margin: 0 auto;
 }
