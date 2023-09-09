@@ -1,0 +1,26 @@
+a:link {text-decoration:none}
+a:visited {text-decoration:none}
+a:active {text-decoration:none}
+a:hover {text-decoration:none; color:#880384}
+
+body {max-width:960px}
+.active {font-weight:bold}
+.inactive {color:black}
+
+html {font-family:"Arial"; font-size:16}
+
+.header {font-size:18; font-weight:bold; color:#880384}
+.top {margin-left:80px; margin-top:3px}
+.section {margin:14px}
+.nav {font-weight:bold; font-size:20}
+.assignmentTitle {font-size:28; font-weight:bold; color:green}
+
+table {padding:20px}
+td {padding:7px}
+
+li {margin:2px}
+ul {list-style:square; margin:4px}
+
+.due {font-weight:bold; color:red}
+pre {color:#008000; margin-left:20px; font-size:12}
+code {color:#008000; font-size:14}
